@@ -2,7 +2,7 @@
 ## Data Analysis
 
 <p align="center">
-    <img width="300" src="https://raw.githubusercontent.com/raquelcolares/Mental-Health_and_Social-Media_Data-Analysis/main/social-media-picture.webp)">
+    <img width="300" src="https://github.com/raquelcolares/Mental-Health_and_Social-Media_Data-Analysis/blob/main/social-media-picture.png">
 </p>
 
 -------
