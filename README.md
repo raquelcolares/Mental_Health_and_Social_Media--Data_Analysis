@@ -15,6 +15,9 @@ The social media acts activating a part of the brain of rewards, releasing dopam
 
 ### References
 **Kaggle** - https://www.kaggle.com/datasets/souvikahmed071/social-media-and-mental-health/data
+
 **World Health Organization (WHO):** https://www.who.int/news-room/fact-sheets/detail/mental-disorders
+
 **McLean Hospital:** https://www.mcleanhospital.org/essential/it-or-not-social-medias-affecting-your-mental-health
+
 **National Library of Medicine:** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9915628/
